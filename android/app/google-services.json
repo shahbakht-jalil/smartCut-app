@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629853338008",
+    "project_id": "smartcut-7816d",
+    "storage_bucket": "smartcut-7816d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629853338008:android:94f8d15a8e937784d093ed",
+        "android_client_info": {
+          "package_name": "com.example.smartcut_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABf_E1g7y_jtQfoZfZmvrdL2nkkIrwLDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
