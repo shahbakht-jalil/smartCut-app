@@ -58,7 +58,36 @@ The model was trained on Google Colab and saved in .tflite format for on-device 
 Test Accuracy: 0.8447546362876892
 
 ## Features
+### Splash Screen
+![Splash Screen](screenshots/splash%20screen.jpeg)
 
+### Signup
+![Signup](screenshots/signup.jpeg)
+
+### Home Screen
+![Home Screen](screenshots/home%20Screen.jpeg)
+
+### Result
+![Result 1](screenshots/result%201.jpeg)
+![Result 2](screenshots/result%202.jpeg)
+
+### Profile
+![Profile](screenshots/Profile.jpeg)
+
+### Edit Profile
+![Edit Profile](screenshots/edit%20profile.jpeg)
+
+### Settings
+![Settings](screenshots/settings.jpeg)
+
+### Change Password
+![Change Password](screenshots/change%20pass.jpeg)
+
+### About
+![About](screenshots/about.jpeg)
+
+### FAQ
+![FAQ](screenshots/FAQ.jpeg)
 
 
 ## Dashboard / Model / Output
