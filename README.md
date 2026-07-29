@@ -59,36 +59,35 @@ Test Accuracy: 0.8447546362876892
 
 ## Features
 ### Splash Screen
-![Splash Screen](screenshots/splash%20screen.jpeg)
+![Splash Screen](screenshots/splash_screen.jpeg)
 
 ### Signup
 ![Signup](screenshots/signup.jpeg)
 
 ### Home Screen
-![Home Screen](screenshots/home%20Screen.jpeg)
+![Home Screen](screenshots/home_Screen.jpeg)
 
 ### Result
-![Result 1](screenshots/result%201.jpeg)
-![Result 2](screenshots/result%202.jpeg)
+![Result 1](screenshots/result_1.jpeg)
+![Result 2](screenshots/esult_2.jpeg)
 
 ### Profile
 ![Profile](screenshots/Profile.jpeg)
 
 ### Edit Profile
-![Edit Profile](screenshots/edit%20profile.jpeg)
+![Edit Profile](screenshots/edit_profile.jpeg)
 
 ### Settings
 ![Settings](screenshots/settings.jpeg)
 
 ### Change Password
-![Change Password](screenshots/change%20pass.jpeg)
+![Change Password](screenshots/change_pass.jpeg)
 
 ### About
 ![About](screenshots/about.jpeg)
 
 ### FAQ
 ![FAQ](screenshots/FAQ.jpeg)
-
 
 ## Dashboard / Model / Output
 
