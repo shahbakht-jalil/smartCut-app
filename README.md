@@ -83,11 +83,8 @@ Test Accuracy: 0.8447546362876892
 ### Change Password
 <img src="screenshots/change_pass.jpeg" width="250">
 
-### About
-<img src="screenshots/about.jpeg" width="250">
-
-### FAQ
-<img src="screenshots/FAQ.jpeg" width="250">
+### About and FAQ
+<img src="screenshots/about.jpeg" width="250"> <img src="screenshots/FAQ.jpeg" width="250">
 
 ## How to Run this Project
 
