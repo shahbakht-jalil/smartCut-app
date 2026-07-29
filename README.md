@@ -12,7 +12,7 @@ Choosing a haircut that suits one's face shape is often guesswork — people rel
 
 ## Dataset
 
-The face shape classification dataset was sourced from Roboflow Universe: [Face Shape Dataset](https://universe.roboflow.com/faceshape-vxygg/faceshape-atkte). 
+The face shape classification dataset was sourced from Roboflow Universe: [Face Shape Dataset](https://universe.roboflow.com/faceshape-vxygg/faceshape-atkte).
 
 It contains 8000 labeled facial images categorized by face shape which then increased to 15,734 images after augmentation, used to train the classification model that powers SmartCut's haircut recommendations.
 
@@ -53,45 +53,38 @@ Training was done using TensorFlow Keras with the following parameters:
 
 The model was trained on Google Colab and saved in .tflite format for on-device inference.
 
-### test accuracy 
+### Test Accuracy
 
 Test Accuracy: 0.8447546362876892
 
-## Features
-### Splash Screen
-![Splash Screen](screenshots/splash_screen.jpeg)
-
-### Signup
-![Signup](screenshots/signup.jpeg)
-
-### Home Screen
-![Home Screen](screenshots/home_Screen.jpeg)
-
-### Result
-![Result 1](screenshots/result_1.jpeg)
-![Result 2](screenshots/esult_2.jpeg)
-
-### Profile
-![Profile](screenshots/Profile.jpeg)
-
-### Edit Profile
-![Edit Profile](screenshots/edit_profile.jpeg)
-
-### Settings
-![Settings](screenshots/settings.jpeg)
-
-### Change Password
-![Change Password](screenshots/change_pass.jpeg)
-
-### About
-![About](screenshots/about.jpeg)
-
-### FAQ
-![FAQ](screenshots/FAQ.jpeg)
-
 ## Dashboard / Model / Output
 
-<!-- TODO: Add screenshots or a short description of the output screen (recommended haircuts UI) -->
+### Splash Screen
+<img src="screenshots/splash_screen.jpeg" width="250">
+
+### Signup
+<img src="screenshots/signup.jpeg" width="250">
+
+### Home Screen
+<img src="screenshots/home_Screen.jpeg" width="250">
+
+### Result
+<img src="screenshots/result_1.jpeg" width="250"> <img src="screenshots/result_2.jpeg" width="250">
+
+### Profile
+<img src="screenshots/Profile.jpeg" width="250">
+
+### Edit Profile
+<img src="screenshots/edit_profile.jpeg" width="250">
+
+### Settings
+<img src="screenshots/settings.jpeg" width="250">
+
+### Change Password
+<img src="screenshots/change_pass.jpeg" width="250">
+
+### About and FAQ
+<img src="screenshots/about.jpeg" width="250"> <img src="screenshots/FAQ.jpeg" width="250">
 
 ## How to Run this Project
 
@@ -108,11 +101,6 @@ cd smartCut-app
 flutter pub get
 ```
 
-### Firebase Setup
-
-- Add your `google-services.json` (Android) to `android/app/`
-- Add your `GoogleService-Info.plist` (iOS) to `ios/Runner/`
-
 ### Run
 
 ```bash
@@ -121,11 +109,17 @@ flutter run
 
 ## Results & Conclusion
 
-<!-- TODO: Add final results — model accuracy, user testing feedback, overall conclusion of the project -->
+The final application successfully detects a user's face shape (e.g. Round, Oval, Square) and generates personalized haircut recommendations in real time. Along with style suggestions, the app also recommends nearby barbers in the user's city offering those specific styles, along with their location on a map.
+
+The model achieved a test accuracy of 84.47%, providing reliable face shape classification for practical, everyday use. Overall, SmartCut demonstrates that an on-device ML pipeline can deliver fast, personalized grooming recommendations without relying on manual input or server-side processing.
 
 ## Future Work
 
-<!-- TODO: Add planned improvements — e.g. expanding dataset, adding more haircut styles, improving model accuracy, AR try-on feature, etc. -->
+- Expand the barber recommendation feature to more cities beyond Karachi
+- Increase dataset size and diversity to improve classification accuracy across more face shapes and skin tones
+- Add a virtual try-on (AR-based) feature to preview haircuts before visiting a barber
+- Extend haircut recommendations for female users with a wider style library
+- Allow users to book appointments directly with recommended barbers within the app
 
 ## Author
 
