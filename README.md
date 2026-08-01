@@ -1,5 +1,11 @@
 # SmartCut
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange?logo=tensorflow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 AI-powered haircut recommendation app that analyzes your face shape and suggests hairstyles that suit you best.
 
 ## Overview
